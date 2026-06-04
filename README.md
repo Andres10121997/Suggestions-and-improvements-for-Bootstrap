@@ -34,6 +34,9 @@ Sé que el `Sidebar` se parece bastante al componente `Offcanvas`, pero creo que
 2.	**<ins>Facilita la navegación</ins>:** “La barra lateral es un buen lugar para colocar una lista de categorías y las etiquetas por las que se relacionan los contenidos. De esta forma, los usuarios pueden navegar por la web con pocos clics y dar con la mayoría de los posts”.
 3.	**<ins>Aporta estética al sitio</ins>:** “Los párrafos con líneas muy largas tienden a cansar a los usuarios, ya que estos se están acostumbrando a las vistas móviles. Un `Sidebar` simple sirve para acortar la longitud de los párrafos y hacerlos más compactos”.
 
+## `TypeScript`
+Sugiero reemplazar los `script` de `JavaScript` por `TypeScript` ¿Por qué? Para detectar errores antes de la ejecución, facilitar el mantenimiento del proyecto y obtener un autocompletado inteligente en el editor.
+
 ## Bibliografía
 1. [Andres10121997 | GitHub](https://github.com/orgs/twbs/discussions/33851).
 2. [Bootstrap](https://getbootstrap.com/docs/5.3/components/modal/).
