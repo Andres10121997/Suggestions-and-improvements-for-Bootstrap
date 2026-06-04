@@ -48,6 +48,8 @@ Sé que el `Sidebar` se parece bastante al componente `Offcanvas`, pero creo que
 ## `TypeScript`
 Sugiero reemplazar los `script` de `JavaScript` por `TypeScript` ¿Por qué? Para detectar errores antes de la ejecución, facilitar el mantenimiento del proyecto y obtener un autocompletado inteligente en el editor.
 
+---
+
 ## Bibliografía
 1. [Andres10121997 | GitHub](https://github.com/orgs/twbs/discussions/33851).
 2. [Bootstrap | Modal](https://getbootstrap.com/docs/5.3/components/modal/).
