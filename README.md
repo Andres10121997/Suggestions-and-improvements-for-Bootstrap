@@ -7,6 +7,18 @@
 
 ## Componentes
 ### Mejoras de componentes
+#### `Accordion`
+¿Qué propongo para mejorar el `Accordion`?
+1. **<ins>Uso de la etiqueta [`<details>`](https://developer.mozilla.org/en/docs/Web/HTML/Reference/Elements/details)</ins>:** Propongo modificar parte del `Accordion` para que se integre la etiqueta nativa `<details>` por las siguientes razones:
+    * **<ins>Simplicidad</ins>:** Al ser una etiqueta nativa, el código `HTML` se vuelve más limpio y simple.
+    * **<ins>Menos dependencias</ins>:** Eliminar o simplificar el código `JavaScript` podría reducir el peso y mejorar el rendimiento de la página.
+
+#### `Dropdown`
+¿Qué propongo para mejorar los botones, links o similares que son `Dropdown`?
+1.	**<ins>Uso de la etiqueta [`<details>`](https://developer.mozilla.org/en/docs/Web/HTML/Reference/Elements/details)</ins>:** Propongo modificar los botones, links y similares por la etiqueta nativa `<details>` por las siguientes razones:
+    * **<ins>Simplicidad</ins>:** Al ser una etiqueta nativa, el código `HTML` se vuelve más limpio y simple.
+    * **<ins>Menos dependencias</ins>:** Eliminar o simplificar el código `JavaScript` podría reducir el peso y mejorar el rendimiento de la página.
+
 #### `Modal`
 ¿Qué es lo que propongo para mejorar el componente `Modal`?
 1.	**<ins>Uso de la etiqueta [`<dialog>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog)</ins>:** Propongo mejorar los `Modal`, que actualmente se construyen con `<div>` y se manipula con `JavaScript`, con la etiqueta nativa de `<dialog>` en `HTML`. Esto tiene varias ventajas:
@@ -15,18 +27,6 @@
     * **<ins>Control del estado</ins>:** La etiqueta tiene un atributo open que facilita el control del estado del `modal`, sin necesidad de escribir `scripts` adicionales.
 2. Ventajas para el equipo de desarrollo
     * El uso de la etiqueta `<dialog>` permite reducir la cantidad de código y la dependencia de bibliotecas externas, lo que puede simplificar el trabajo del equipo de desarrollo y mantener el código más limpio y fácil de mantener.
-
-#### `Dropdown`
-¿Qué propongo para mejorar los botones, links o similares que son `Dropdown`?
-1.	**<ins>Uso de la etiqueta [`<details>`](https://developer.mozilla.org/en/docs/Web/HTML/Reference/Elements/details)</ins>:** Propongo modificar los botones, links y similares por la etiqueta nativa `<details>` por las siguientes razones:
-    * **<ins>Simplicidad</ins>:** Al ser una etiqueta nativa, el código `HTML` se vuelve más limpio y simple.
-    * **<ins>Menos dependencias</ins>:** Eliminar o simplificar el código `JavaScript` podría reducir el peso y mejorar el rendimiento de la página.
-
-#### `Accordion`
-¿Qué propongo para mejorar el `Accordion`?
-1. **<ins>Uso de la etiqueta [`<details>`](https://developer.mozilla.org/en/docs/Web/HTML/Reference/Elements/details)</ins>:**: Propongo modificar parte del `Accordion` para que se integre la etiqueta nativa `<details>` por las siguientes razones:
-    * **<ins>Simplicidad</ins>:** Al ser una etiqueta nativa, el código `HTML` se vuelve más limpio y simple.
-    * **<ins>Menos dependencias</ins>:** Eliminar o simplificar el código `JavaScript` podría reducir el peso y mejorar el rendimiento de la página.
 
 #### `Navbar`
 Tener un mayor nivel de personalización:
