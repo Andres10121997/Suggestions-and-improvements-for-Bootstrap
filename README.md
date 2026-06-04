@@ -39,8 +39,8 @@ Sugiero reemplazar los `script` de `JavaScript` por `TypeScript` ¿Por qué? Par
 
 ## Bibliografía
 1. [Andres10121997 | GitHub](https://github.com/orgs/twbs/discussions/33851).
-2. [Bootstrap](https://getbootstrap.com/docs/5.3/components/modal/).
-3. [Bootstrap](https://getbootstrap.com/docs/5.3/examples/sidebars/).
+2. [Bootstrap | Modal](https://getbootstrap.com/docs/5.3/components/modal/).
+3. [Bootstrap | Sidebars](https://getbootstrap.com/docs/5.3/examples/sidebars/).
 4. [Caio](https://dev.to/doccaio/modal-vs-dialog-2bb2).
 5. [Casasola, M.](https://seranking.com/es/blog/sidebar-barra-lateral/).
 6. [Smith, T.](https://dev.to/iam_timsmith/dialogs-vs-modals-is-there-a-difference-210k).
