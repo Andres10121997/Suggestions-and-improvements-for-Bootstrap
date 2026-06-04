@@ -2,7 +2,8 @@
 ## Objetivo
 ### Componentes
 1. **<ins>Mejorar componentes</ins>:** Hay algunos componentes en `Bootstrap` que, si bien funcionan, no están utilizando componentes 'nativos' de `HTML`, sino una combinación de `<div>` y código `JavaScript`.
-2. Agregar nuevos componentes.
+    * Lo que busco con este punto es que no se pase por alto todo lo que busca `HTML5`, que es que el `markup` sea claro.
+3. Agregar nuevos componentes.
 
 ## Componentes
 ### Mejoras de componentes
@@ -36,9 +37,6 @@ Sé que el `Sidebar` se parece bastante al componente `Offcanvas`, pero creo que
 
 ## `TypeScript`
 Sugiero reemplazar los `script` de `JavaScript` por `TypeScript` ¿Por qué? Para detectar errores antes de la ejecución, facilitar el mantenimiento del proyecto y obtener un autocompletado inteligente en el editor.
-
-## Aclaración
-Lo que busco con estas sugerencias y mejoras es que no se pase por alto todo lo que busca `HTML5`, que es que el markup sea claro.
 
 ## Bibliografía
 1. [Andres10121997 | GitHub](https://github.com/orgs/twbs/discussions/33851).
