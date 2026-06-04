@@ -31,3 +31,13 @@ Sé que el `Sidebar` se parece bastante al componente `Offcanvas`, pero creo que
 Tener un mayor nivel de personalización:
 1.	Tener la capacidad de poner la totalidad, o de manera parcial, los `navlinks` en la parte izquierda, central o derecha del `Navbar` y, de igual manera, el formulario.
 2.	En la actualidad el `Navbar` se puede colorear de negro, azul y blanco, hay que tener más opciones.
+
+## Bibliografía
+1. [Andres10121997 | GitHub](https://github.com/orgs/twbs/discussions/33851).
+2. [Bootstrap](https://getbootstrap.com/docs/5.3/components/modal/).
+3. [Bootstrap](https://getbootstrap.com/docs/5.3/examples/sidebars/).
+4. [Caio](https://dev.to/doccaio/modal-vs-dialog-2bb2).
+5. [Casasola, M.](https://seranking.com/es/blog/sidebar-barra-lateral/).
+6. [Smith, T.](https://dev.to/iam_timsmith/dialogs-vs-modals-is-there-a-difference-210k).
+7. [W3Schools](https://www.w3schools.com/tags/tag_dialog.asp).
+8. [W3Schools](https://www.w3schools.com/tags/tag_details.asp).
