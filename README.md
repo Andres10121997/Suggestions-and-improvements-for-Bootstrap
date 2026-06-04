@@ -5,6 +5,8 @@
     * Lo que busco con este punto es que no se pase por alto todo lo que busca `HTML5`, que es que el `markup` sea claro.
 3. Agregar nuevos componentes.
 
+---
+
 ## Componentes
 ### Mejoras de componentes
 #### `Accordion`
@@ -40,6 +42,8 @@ Sé que el `Sidebar` se parece bastante al componente `Offcanvas`, pero creo que
 1.	**<ins>Mejorar la visibilidad del contenido</ins>:** “Los contenidos nuevos en tu web no siempre reciben buen tráfico desde el inicio, pero ponerlos en el `Sidebar` ayuda a llevar a más usuarios hacia ellos”.
 2.	**<ins>Facilita la navegación</ins>:** “La barra lateral es un buen lugar para colocar una lista de categorías y las etiquetas por las que se relacionan los contenidos. De esta forma, los usuarios pueden navegar por la web con pocos clics y dar con la mayoría de los posts”.
 3.	**<ins>Aporta estética al sitio</ins>:** “Los párrafos con líneas muy largas tienden a cansar a los usuarios, ya que estos se están acostumbrando a las vistas móviles. Un `Sidebar` simple sirve para acortar la longitud de los párrafos y hacerlos más compactos”.
+
+---
 
 ## `TypeScript`
 Sugiero reemplazar los `script` de `JavaScript` por `TypeScript` ¿Por qué? Para detectar errores antes de la ejecución, facilitar el mantenimiento del proyecto y obtener un autocompletado inteligente en el editor.
