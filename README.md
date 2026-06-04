@@ -17,7 +17,7 @@
 
 #### `Dropdown`
 ¿Qué propongo para mejorar los botones, links o similares que son `Dropdown`?
-1.	**<ins>Uso de la etiqueta `<details>`</ins>:** Propongo modificar los botones, links y similares por la etiqueta nativa details por las siguientes razones:
+1.	**<ins>Uso de la etiqueta [`<details>`](https://developer.mozilla.org/en/docs/Web/HTML/Reference/Elements/details)</ins>:** Propongo modificar los botones, links y similares por la etiqueta nativa details por las siguientes razones:
     * **<ins>Simplicidad</ins>:** Al ser una etiqueta nativa, el código `HTML` se vuelve más limpio y simple.
     * **<ins>Menos dependencias</ins>:** Eliminar o simplificar el código `JavaScript` podría reducir el peso y mejorar el rendimiento de la página.
 
