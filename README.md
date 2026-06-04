@@ -26,3 +26,8 @@ Sé que el `Sidebar` se parece bastante al componente `Offcanvas`, pero creo que
 1.	**<ins>Uso de la etiqueta `<details>`</ins>:** Propongo modificar los botones, links y similares por la etiqueta nativa details por las siguientes razones:
     * **<ins>Simplicidad</ins>:** Al ser una etiqueta nativa, el código `HTML` se vuelve más limpio y simple.
     * **<ins>Menos dependencias</ins>:** Eliminar o simplificar el código `JavaScript` podría reducir el peso y mejorar el rendimiento de la página.
+
+### `Navbar`
+Tener un mayor nivel de personalización:
+1.	Tener la capacidad de poner la totalidad, o de manera parcial, los `navlinks` en la parte izquierda, central o derecha del `navbar` y, de igual manera, el formulario.
+2.	En la actualidad el `navbar` se puede colorear de negro, azul y blanco, hay que tener más opciones.
