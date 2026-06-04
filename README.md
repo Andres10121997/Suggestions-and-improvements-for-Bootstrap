@@ -8,7 +8,7 @@
 ### Mejoras de componentes
 #### `Modal`
 ¿Qué es lo que propongo para mejorar el componente `Modal`?
-1.	**<ins>Uso de la etiqueta `<dialog>`</ins>:** Propongo mejorar los `Modal`, que actualmente se construyen con `<div>` y se manipula con `JavaScript`, con la etiqueta nativa de `<dialog>` en `HTML`. Esto tiene varias ventajas:
+1.	**<ins>Uso de la etiqueta [`<dialog>`](https://caniuse.com/?search=dialog)</ins>:** Propongo mejorar los `Modal`, que actualmente se construyen con `<div>` y se manipula con `JavaScript`, con la etiqueta nativa de `<dialog>` en `HTML`. Esto tiene varias ventajas:
     * **<ins>Simplicidad</ins>:** Al ser una etiqueta nativa de `HTML`, el código de este lenguaje de marcado se vuelve más limpio y simple.
     * **<ins>Menos dependencias</ins>:** Eliminar o simplificar el código correspondiente de `JavaScript`, esto reduciría el peso y mejorar el rendimiento de la página.
     * **<ins>Control del estado</ins>:** La etiqueta tiene un atributo open que facilita el control del estado del modal, sin necesidad de escribir `scripts` adicionales.
