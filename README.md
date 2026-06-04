@@ -29,5 +29,5 @@ Sé que el `Sidebar` se parece bastante al componente `Offcanvas`, pero creo que
 
 ### `Navbar`
 Tener un mayor nivel de personalización:
-1.	Tener la capacidad de poner la totalidad, o de manera parcial, los `navlinks` en la parte izquierda, central o derecha del `navbar` y, de igual manera, el formulario.
-2.	En la actualidad el `navbar` se puede colorear de negro, azul y blanco, hay que tener más opciones.
+1.	Tener la capacidad de poner la totalidad, o de manera parcial, los `navlinks` en la parte izquierda, central o derecha del `Navbar` y, de igual manera, el formulario.
+2.	En la actualidad el `Navbar` se puede colorear de negro, azul y blanco, hay que tener más opciones.
