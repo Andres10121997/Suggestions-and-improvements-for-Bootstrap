@@ -12,14 +12,14 @@
     * **<ins>Menos dependencias</ins>:** Eliminar o simplificar el código correspondiente de `JavaScript`, esto reduciría el peso y mejorar el rendimiento de la página.
     * **<ins>Control del estado</ins>:** La etiqueta tiene un atributo open que facilita el control del estado del modal, sin necesidad de escribir `scripts` adicionales.
 2. Ventajas para el equipo de desarrollo
-    * El uso de la etiqueta `dialog` permite reducir la cantidad de código y la dependencia de bibliotecas externas, lo que puede simplificar el trabajo del equipo de desarrollo y mantener el código más limpio y fácil de mantener.
+    * El uso de la etiqueta `<dialog>` permite reducir la cantidad de código y la dependencia de bibliotecas externas, lo que puede simplificar el trabajo del equipo de desarrollo y mantener el código más limpio y fácil de mantener.
 
 ### `Sidebar`
 Sé que el `Sidebar` se parece bastante al componente `Offcanvas`, pero creo que sería bastante bueno tener una barra horizontal que complemente al componente `Navbar`.
 #### Ventajas
 1.	**<ins>Mejorar la visibilidad del contenido</ins>:** “Los contenidos nuevos en tu web no siempre reciben buen tráfico desde el inicio, pero ponerlos en el sidebar ayuda a llevar a más usuarios hacia ellos”.
 2.	**<ins>Facilita la navegación</ins>:** “La barra lateral es un buen lugar para colocar una lista de categorías y las etiquetas por las que se relacionan los contenidos. De esta forma, los usuarios pueden navegar por la web con pocos clics y dar con la mayoría de los posts”.
-3.	**<ins>Aporta estética al sitio</ins>:** “Los párrafos con líneas muy largas tienden a cansar a los usuarios, ya que estos se están acostumbrando a las vistas móviles. Un `sidebar` simple sirve para acortar la longitud de los párrafos y hacerlos más compactos”.
+3.	**<ins>Aporta estética al sitio</ins>:** “Los párrafos con líneas muy largas tienden a cansar a los usuarios, ya que estos se están acostumbrando a las vistas móviles. Un `Sidebar` simple sirve para acortar la longitud de los párrafos y hacerlos más compactos”.
 
 ### `Dropdown`
 ¿Qué propongo para mejorar los botones, links o similares que son `Dropdown`?
