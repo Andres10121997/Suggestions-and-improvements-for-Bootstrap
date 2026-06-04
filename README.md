@@ -35,6 +35,10 @@ Tener un mayor nivel de personalización:
 1.	Tener la capacidad de poner la totalidad, o de manera parcial, los `navlinks` en la parte izquierda, central o derecha del `Navbar` y, de igual manera, el formulario.
 2.	En la actualidad el `Navbar` se puede colorear de negro, azul y blanco, hay que tener más opciones.
 
+### `Progress`
+#### Propuesta
+1. **<ins>Uso de la etiqueta [`<progress>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/progress)</ins>:** Propongo mejorar el `Progress`, que actualmente se construyen con `<div>`, con la etiqueta nativa `<progress>` de `HTML`.
+
 ### Nuevos componentes
 #### `Sidebar`
 Sé que el `Sidebar` se parece bastante al componente `Offcanvas`, pero creo que sería bastante bueno tener una barra horizontal que complemente al componente `Navbar`.
