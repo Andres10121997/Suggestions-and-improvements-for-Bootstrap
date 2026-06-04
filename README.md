@@ -22,7 +22,7 @@
     * **<ins>Simplicidad</ins>:** Al ser una etiqueta nativa, el código `HTML` se vuelve más limpio y simple.
     * **<ins>Menos dependencias</ins>:** Eliminar o simplificar el código `JavaScript` podría reducir el peso y mejorar el rendimiento de la página.
 
-### `Accordion`
+#### `Accordion`
 ¿Qué propongo para mejorar el `Accordion`?
 1. **<ins>Uso de la etiqueta [`<details>`](https://developer.mozilla.org/en/docs/Web/HTML/Reference/Elements/details)</ins>:**: Propongo modificar parte del `Accordion` para que se integre la etiqueta nativa `<details>` por las siguientes razones:
     * **<ins>Simplicidad</ins>:** Al ser una etiqueta nativa, el código `HTML` se vuelve más limpio y simple.
